@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Testing1</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">d6tqggiymUkidUOMr-1pWx1Cwyq9zMEbFdlyH</string>
+</resources>
